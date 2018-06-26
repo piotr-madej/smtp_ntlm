@@ -1,0 +1,1 @@
+smtp_ntlm capture script attempts to quietly catch NTLM Challenge hashes over SMTP
